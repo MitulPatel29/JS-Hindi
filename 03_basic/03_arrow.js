@@ -52,3 +52,13 @@ console.log(addTwo(3, 4))
 // const myArray = [2, 5, 3, 7, 8]
 
 // myArray.forEach()
+
+
+
+
+
+
+
+const addition = (a,b) => (a+b)
+
+console.log( `addition of two number ${addition(3,5)}`);
